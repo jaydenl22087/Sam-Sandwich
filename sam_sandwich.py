@@ -1,3 +1,5 @@
+import datetime
+
 def force_number(message, lower, upper):
     while True: 
         try:
@@ -80,4 +82,3 @@ cheese_choice = cheese_selection()
 print(f"Your selected cheese: {cheese_choice}")
 salad_choice = salad_selection()
 print(f"Your selected salad(s) are: {salad_choice}")
-print(sandwich_order)

@@ -1,0 +1,19 @@
+
+Date of Order: 2025-10-08 09:38:38.579251
+Time: 2025-10-08 09:38:38
+First Name: Sunny
+Phone Number: 12345678
+Your selected bread: White
+Your selected meat: Ham
+Your selected cheese: Cheese
+Your selected salad: lettuce lettuce
+Your selcted dressing: BBQ
+
+Date of Order: 2025-10-08 09:45:17.524044
+First Name: Ajsf
+Phone Number: 124441254
+Your selected bread: White
+Your selected meat: Ham
+Your selected cheese: Cheese
+Your selected salad: lettuce Tomato Mixed Greens Coleslaw
+Your selcted dressing: Tomato Sause
